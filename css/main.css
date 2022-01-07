@@ -461,5 +461,14 @@ code, pre {
     padding: 10px;
     background-color: rgba(0, 0, 0, 0.1);
   }
+    .footer .flex {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .footer ul {
+    padding: 10px;
+  }
 }
 /*# sourceMappingURL=main.css.map */
