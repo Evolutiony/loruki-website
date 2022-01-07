@@ -474,8 +474,8 @@ code, pre {
         -ms-flex-direction: column;
             flex-direction: column;
   }
-  .footer a {
-    padding: 10px;
+  .footer .container {
+    padding: 20px;
   }
 }
 /*# sourceMappingURL=main.css.map */
