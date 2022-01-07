@@ -293,6 +293,12 @@ code, pre {
   margin: 0 10px;
 }
 
+.footer ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 /* Animations */
 @-webkit-keyframes slideInFromLeft {
   0% {
