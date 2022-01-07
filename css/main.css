@@ -299,6 +299,12 @@ code, pre {
   display: flex;
 }
 
+.footer .flex {
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
 .footer a {
  padding: 10px;
 }
