@@ -299,6 +299,10 @@ code, pre {
   display: flex;
 }
 
+.footer a {
+ padding: 10px;
+}
+
 /* Animations */
 @-webkit-keyframes slideInFromLeft {
   0% {
