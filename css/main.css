@@ -477,5 +477,9 @@ code, pre {
   .footer .container {
     padding: 10px;
   }
+  
+  .footer .social {
+  margin: 15px; 
+  }
 }
 /*# sourceMappingURL=main.css.map */
