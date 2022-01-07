@@ -293,7 +293,7 @@ code, pre {
   margin: 0 10px;
 }
 
-.footer ul {
+/* .footer ul {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -303,7 +303,7 @@ code, pre {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-}
+} */
 
 .footer a {
  padding: 10px;
@@ -473,7 +473,7 @@ code, pre {
         -ms-flex-direction: column;
             flex-direction: column;
   }
-  .footer ul {
+  .footer a {
     padding: 10px;
   }
 }
